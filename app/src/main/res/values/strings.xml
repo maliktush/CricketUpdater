@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CricketUpdater</string>
+    <string name="title_activity_news">News</string>
 </resources>
